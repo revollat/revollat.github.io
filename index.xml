@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Olivier Revollat Blog </title>
+    <link>http://localhost:1313/</link>
+    <language>en-us</language>
+    <author>Olivier Revollat</author>
+    <rights>(C) 2016</rights>
+    <updated>2016-07-27 09:11:56 -0400 EDT</updated>
+
+    
+      
+        <item>
+          <title>this is a test</title>
+          <link>http://localhost:1313/post/this-is-a-test/</link>
+          <pubDate>Wed, 27 Jul 2016 09:11:56 EDT</pubDate>
+          <author>Olivier Revollat</author>
+          <guid>http://localhost:1313/post/this-is-a-test/</guid>
+          <description>&lt;p&gt;fzezefze
+fzee &lt;strong&gt;zef&lt;/strong&gt; efzef
+ok c&amp;rsquo;est super
+ef ze&lt;/p&gt;
+</description>
+        </item>
+      
+    
+
+  </channel>
+</rss>
